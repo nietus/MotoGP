@@ -28,10 +28,10 @@ O MotoGP é a principal categoria do Campeonato Mundial de Motovelocidade, reuni
 
 ### Interact
 
-pip install mysql-connector-python streamlint
+pip install mysql-connector-python streamlit
 
-streamlint run app.py
+streamlit run app.py
 
 MySQL server should be running, created and populated
 
-You can interact with the tables using the streamlint interface, but keep in mind that you should respect the relationships. For example, create an account with email X before commenting a race with email X, and so on.
+You can interact with the tables using the streamlit interface, but keep in mind that you should respect the relationships. For example, create an account with email X before commenting a race with email X, and so on.
