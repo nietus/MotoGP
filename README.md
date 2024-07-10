@@ -30,7 +30,7 @@ O MotoGP é a principal categoria do Campeonato Mundial de Motovelocidade, reuni
 
 pip install mysql-connector-python streamlint
 
-streamlit run app.py
+streamlint run app.py
 
 MySQL server should be running, created and populated
 
