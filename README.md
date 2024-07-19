@@ -1,6 +1,6 @@
 ## MotoGP DB (Minimundo)
 
-O MotoGP é a principal categoria do Campeonato Mundial de Motovelocidade, reunindo as melhores equipes, pilotos e mecânicos em uma competição emocionante em circuitos de todo o mundo. As equipes, como Yamaha, Honda e Ducati, buscam aperfeiçoar suas máquinas e estratégias para alcançar a vitória nas corridas, realizadas em circuitos renomados como o Circuito de Jerez, em Espanha, e o Circuito das Américas, nos Estados Unidos. Os pilotos, estrelas como Valentino Rossi, Marc Márquez e Jorge Lorenzo, enfrentam desafios únicos em cada corrida, buscando conquistar pontos para alcançar a liderança na classificação geral. Os mecânicos das equipes desempenham um papel crucial, ajustando as motos para garantir o melhor desempenho em cada pista. Os patrocinadores, como a Red Bull e a Monster Energy, apoiam as equipes e contribuem para o espetáculo emocionante do MotoGP. Os fãs de todo o mundo acompanham de perto cada corrida, criando uma comunidade global de entusiastas do motociclismo.
+O MotoGP é a principal categoria do Campeonato Mundial de Motovelocidade, e nesse projeto foram usados os seguintes atributos:
 
 * **Equipe:** Representa as equipes participantes do MotoGP, como Yamaha, Honda, Ducati, etc. Cada equipe possui um nome, país de origem e pode ter vários pilotos e mecânicos associados.
 * **Piloto:** Representa os pilotos que competem no MotoGP. Cada piloto tem um nome, país de origem, equipe atual e pode ter participado de várias corridas em diferentes temporadas.
@@ -14,17 +14,17 @@ O MotoGP é a principal categoria do Campeonato Mundial de Motovelocidade, reuni
 
 ### Diagrama Conceitual
 
-![P](conceitual.png)
+![P](img/conceitual.png)
 
 
 ### Diagrama Esquema
 
-![P](esquema.png)
+![P](img/esquema.png)
 
 
 ### Pé de galinha
 
-![P](pe.png)
+![P](img/pe.png)
 
 ### Interact
 
